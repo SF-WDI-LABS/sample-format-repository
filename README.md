@@ -42,6 +42,6 @@ CONTENT OF MODULE
  
 ## Further Reading:
 <!-- Links to further exploration -->
-- [Vice](http://www.vbs.com)
+- [Vice](http://www.vice.com)
 - [A big wiggly javascript demonstration](http://www.staggeringbeauty.com)
 - [Cute puppies](http://www.reddit.com/r/aww)
